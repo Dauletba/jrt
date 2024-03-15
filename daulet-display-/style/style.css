@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: black;
+}
+
+.box{
+
+    width: 1880px;
+    height: 75px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-family: "Oswald-VariableFont_wght";
+}
+
+.img-box{
+    width: 120px;
+    height: 70px;
+}
+.box2{
+
+    width: 1880px;
+    height: 75px;
+background-color: green;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box3{
+
+    width: 1880px;
+    height: 75px;
+background-color: deeppink;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box4{
+
+    width: 1880px;
+    height: 75px;
+ background-color: brown;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box5{
+
+    width: 1880px;
+    height: 75px;
+background-color: yellowgreen;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box6{
+
+    width: 1880px;
+    height: 75px;
+background-color: blue;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box7{
+
+    width: 1880px;
+    height: 75px;
+    background-color: green;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box8{
+
+    width: 1880px;
+    height: 75px;
+    background-color: purple;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box9{
+
+    width: 1880px;
+    height: 75px;
+background-color: brown;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box10{
+
+    width: 1880px;
+    height: 75px;
+background-color: yellowgreen;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.box11{
+
+    width: 1880px;
+    height: 75px;
+    background-color: blue;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+    
+}
+
+
+.wiht{
+     width: 20px;
+     height: 75px;
+     background-color: antiquewhite;
+     margin-left: 150px;
+     
+}
+
+
+
+

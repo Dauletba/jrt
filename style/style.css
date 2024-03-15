@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: darkslategray;
+}
+
+.text-header{
+    font-size: 45px;
+     color: white;
+     margin-left: 70px;
+     margin-top: 20px;
+}
+
+.img-box{
+    width: 100px;
+    margin-left: 70px;
+    margin-top: 20px;
+    
+
+}
+
+.img-box-two{
+margin-left: 12px;
+margin-top: 80px;
+}
+
+.box{
+    display: flex;
+}
